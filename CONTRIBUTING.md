@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <a href="LICENSE"><img alt="协议 MIT" src="https://img.shields.io/badge/协议-MIT-green?style=flat"></a>
+  <a href="LICENSE"><img alt="协议 AGPL-3.0" src="https://img.shields.io/badge/协议-AGPL--3.0-blue?style=flat"></a>
   <a href="CONTRIBUTING.md"><img alt="PRs welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat"></a>
   <a href="https://github.com/awujiana"><img alt="AI辅助生成 是" src="https://img.shields.io/badge/AI辅助生成-是-orange?style=flat"></a>
 </p>
@@ -19,7 +19,7 @@
 
 感谢你关注 **Q-Dir 颜色过滤器扩容补丁** 并愿意贡献。本协议与流程用于确保协作顺畅、输出风格统一、许可证一致。
 
-> 维护者：awujiana ｜ 开源协议：以仓库 `LICENSE` 为准（MIT）
+> 维护者：awujiana ｜ 开源协议：以仓库 `LICENSE` 为准（AGPL-3.0）
 
 ## 📚 目录
 
@@ -112,6 +112,6 @@
 
 ## 📄 许可证
 
-向本仓库提交贡献，即表示你同意以仓库 `LICENSE` 所载协议（MIT）发布你的贡献，并确认你拥有相应的授权。详见仓库内 [LICENSE](LICENSE)。
+向本仓库提交贡献，即表示你同意以仓库 `LICENSE` 所载协议（AGPL-3.0）发布你的贡献，并确认你拥有相应的授权。详见仓库内 [LICENSE](LICENSE)。
 
-[![MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)

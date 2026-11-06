@@ -2,7 +2,7 @@
 
 <!-- badges:start -->
 <p align="center">
-  <a href="LICENSE"><img alt="协议 MIT" src="https://img.shields.io/badge/协议-MIT-green?style=flat"></a>
+  <a href="LICENSE"><img alt="协议 AGPL-3.0" src="https://img.shields.io/badge/协议-AGPL--3.0-blue?style=flat"></a>
   <a href="https://github.com/awujiana/Q-Dir-removes-the-32-color-filter-limit"><img alt="平台 Windows" src="https://img.shields.io/badge/平台-Windows-blue?style=flat"></a>
   <a href="https://github.com/awujiana/Q-Dir-removes-the-32-color-filter-limit"><img alt="语言 Python" src="https://img.shields.io/badge/Python-3.7%2B-blue?style=flat&logo=python&logoColor=white"></a>
   <a href="https://github.com/awujiana"><img alt="作者 awujiana" src="https://img.shields.io/badge/作者-awujiana-orange?style=flat"></a>
@@ -228,6 +228,8 @@ python qdir_colorfilter_unlimit.py --restore
 <a id="sec-14"></a>
 ## 📄 开源协议
 
-本项目基于 **[MIT](LICENSE)** 协议开源。
+本项目基于 **[AGPL-3.0](LICENSE)**（GNU Affero General Public License v3.0）开源。
+
+根据 AGPL-3.0 的要求：任何人使用、修改或分发本项目代码，若以网络服务器形式向用户提供交互服务，必须同样以 AGPL-3.0 公开其完整对应源代码。
 
 版权所有 © awujiana。

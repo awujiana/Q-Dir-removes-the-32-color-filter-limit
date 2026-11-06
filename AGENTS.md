@@ -7,7 +7,7 @@
 
 - **名称**：Q-Dir 颜色过滤器扩容补丁（中文名）
 - **GitHub 仓库名（英文名）**：Q-Dir-removes-the-32-color-filter-limit
-- **类型**：代码仓库（Python 工具 + 文档，MIT）
+- **类型**：代码仓库（Python 工具 + 文档，AGPL-3.0）
 - **维护者**：awujiana
 - **一句话**：用 PE 二进制补丁把 Q-Dir 12.77 x64 的颜色过滤器上限从 32 条提升到最多 127 条，自动定位、可回滚、写盘后复检。
 
@@ -23,7 +23,7 @@
 | `CONTRIBUTING.md` | 贡献指南（含命名规范） | ✅ |
 | `AGENTS.md` | 本文件（给 AI 看的内容） | ✅ |
 | `CHANGELOG.md` | 更新日志 | ✅ |
-| `LICENSE` | MIT 协议全文 | ✅ |
+| `LICENSE` | AGPL-3.0 全文 | ✅ |
 | `.gitignore` | 排除 Python 缓存、补丁产物与备份 | ✅ |
 
 ## 必须遵守的约定
@@ -42,7 +42,7 @@
    - 不得在未校验 PE 特征（AMD64、节表、目标地址）时写盘。
 4. **README 风格**：顶部 shields.io 徽章（`<p align="center">` 纯 HTML 居中）→ 双名标题 → 语言切换徽章 + 文档导航 → `[!WARNING]` AI 声明 → 目录 → 正文 → 关联标签 → 底部三节（关联仓库 / 作者联系方式 / 开源协议）。
 5. **双名标题**：README 顶部**中文名 `<h1>` 在上、GitHub 仓库名 / 英文名 `<h2>` 在下**，两者都要有。
-6. **协议**：**MIT**（沿用仓库既有 `LICENSE`；技能默认代码仓库为 AGPL-3.0，如需切换须显式决定并替换 `LICENSE` 全文）。
+6. **协议**：**AGPL-3.0**（`LICENSE` 为全文，不许改动）。
 7. **文档索引**：「文档」节只列**操作 / 参考文档**；部署报告 `deploy_v8_report.md` 作为历史记录，不单独成节。
 8. **提交信息**：说明「做了什么 / 为什么」；从 `main` 切特性分支（单人仓库可直接提交）。
 9. **提交身份**：`git config user.name` 必须是 `awujiana`，`user.email` 必须是 `bingshanlengtie@qq.com`。旧邮箱一旦进了提交元数据，「改文件」和 `force push` 都清不掉。
