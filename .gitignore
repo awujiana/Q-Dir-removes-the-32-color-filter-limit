@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 补丁产物与备份（不应入库）
+Q-Dir_patched*.exe
+*.exe.bak*
+Q-Dir.exe.orig
+
+# 操作系统 / 编辑器临时文件
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
